@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Marketplace de Productos Verdes</title>
+<style>
+h1{
+  color:green;
+}
+ul{
+  display:inline;
+}
+</style>
+</head>
+<body>
 
+<h1>Bienvenido al Marketplace de Productos Verdes</h1>
+
+<p>Esta página es el lugar perfecto para encontrar los productos verdes que deseas.</p>
+
+<h2>Nuestros productos</h2>
+
+<ul>
+  <li>Alimentos orgánicos</li>
+  <li>Cosméticos naturales</li>
+  <li>Productos de limpieza verde</li>
+  <li>Ropa ecológica</li>
+</ul>
+
+<h2>Cómo obtener los productos</h2>
+
+<p>Puede comprar los productos directamente en nuestro sitio web o puede visitar nuestra tienda física para obtener los productos que desea.</p>
+
+<h2>Formas de pago</h2>
+
+<p>Aceptamos tarjetas de crédito, débito, PayPal y transferencias bancarias.</p>
+
+<h2>Envíos</h2>
+
+<p>Hacemos envíos a todas las direcciones en los Estados Unidos. El tiempo de entrega depende de su ubicación y el método de entrega que elija.</p>
+
+<h2>Garantía de satisfacción</h2>
+
+<p>Ofrecemos una garantía de satisfacción de 30 días para todos los productos que vendemos. Si no está satisfecho con su compra, puede devolverla dentro de los 30 días para obtener un reembolso completo.</p>
+
+<h2>Contáctenos</h2>
+
+<p>Si tiene alguna pregunta sobre nuestros productos o servicios, no dude en ponerse en contacto con nosotros. Estamos aquí para ayudarlo.</p>
+
+</body>
+</html>
