@@ -2,7 +2,7 @@
 	max-width: 1200px;
 	margin: 0 auto;
 	background-color: #82CB8D;
-	padding: 20px;
+	padding: 30px;
 	text-align: left;
 }
 .titulo{
@@ -21,7 +21,7 @@ nav ul{
 }
 nav ul li{
 	display: inline-block;
-	margin-left: 10px;
+	margin-left: 20px;
 }
 nav ul li a{
 	color: #fff;
@@ -31,5 +31,5 @@ nav ul li a{
 }
 .banner{
 	width: 100%;
-	max-width: 1200px;
-	margin
+	max-width: 400px;
+	margin: center;
