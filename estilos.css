@@ -16,7 +16,7 @@ header {
 }
 
 .contenedor{
-	max-width: 100px;
+	max-width: 1000px;
 	margin: auto;
 	background-color: #82CB8D;
 	padding: 20px;
@@ -29,7 +29,7 @@ header {
 	text-align: left;
 	color: #FFF;
 	font-size: 20px;
-	margin-bottom: 1px;
+	margin-bottom: 10px;
 }
 
 nav{
