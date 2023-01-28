@@ -1,11 +1,11 @@
 header {
   background-color: ##82CB8D;
   color: #FFFFFF;
-  padding: 100px;
+  padding: 200px;
 }
 
 .banner {
-  width: 100%;
+  width: 1000%;
   margin-bottom: 10px;
 }
 
@@ -14,7 +14,7 @@ header {
 }
 
 .contenedor{
-	max-width: 1000px;
+	max-width: 10px;
 	margin: auto;
 	background-color: #82CB8D;
 	padding: 20px;
