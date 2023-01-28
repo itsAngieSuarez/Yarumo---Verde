@@ -5,12 +5,14 @@ header {
 }
 
 .banner {
-  width: 10%;
-  margin-bottom: 10px;
+  width: 100%;
+  border-bottom: 1px solid #000;
+  text-align: center;
 }
 
 .banner img {
   width: 100%;
+  height: auto;
 }
 
 .contenedor{
