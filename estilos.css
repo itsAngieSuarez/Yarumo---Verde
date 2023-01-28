@@ -1,3 +1,18 @@
+header {
+  background-color: ##82CB8D;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.banner {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.banner img {
+  width: 100%;
+}
+
 .contenedor{
 	max-width: 800px;
 	margin: auto;
